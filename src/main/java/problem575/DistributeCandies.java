@@ -14,7 +14,7 @@ public final class DistributeCandies {
             idx = ct + NON_NEG_OFFSET;
             if (!setLookup[idx]) {
                 setLookup[idx] = true;
-                if (++setCnt == n2) break;
+                if (++setCnt == n2) return n2;
             }
         }
         return Math.min(setCnt, n2);
