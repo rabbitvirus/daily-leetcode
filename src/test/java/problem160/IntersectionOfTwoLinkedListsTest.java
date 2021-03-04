@@ -28,7 +28,7 @@ public class IntersectionOfTwoLinkedListsTest {
                 {TestListData.from(
                         new int[]{2, 6, 4},
                         new int[]{1, 5}
-                )},
+                )}
         };
     }
 
