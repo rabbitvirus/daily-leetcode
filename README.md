@@ -10,7 +10,7 @@ Levels:
 * :green_circle: [problem 575 / Distribute Candies](./src/main/java/problem575/DistributeCandies.java)
 * :green_circle: [problem 645 / Set Mismatch](./src/main/java/problem645/SetMismatch.java)
 
-**_Lists_**
+**_Lists:_**
 * :green_circle: [problem 160 / Intersection of Two Linked Lists](./src/main/java/problem160/IntersectionOfTwoLinkedLists.java)
 
 **_Misc:_**
