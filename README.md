@@ -13,5 +13,8 @@ Levels:
 **_Lists:_**
 * :green_circle: [problem 160 / Intersection of Two Linked Lists](./src/main/java/problem160/IntersectionOfTwoLinkedLists.java)
 
+**_Trees:_**
+* :green_circle: [problem 637 / Average of Levels in Binary Tree](./src/main/java/problem637/AverageLevelsBinaryTree.java)
+
 **_Misc:_**
 * :green_circle: [problem 268 / Missing Number](./src/main/java/problem268/MissingNumber.java)
