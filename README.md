@@ -15,6 +15,7 @@ Levels:
 
 **_Trees:_**
 * :green_circle: [problem 637 / Average of Levels in Binary Tree](./src/main/java/problem637/AverageLevelsBinaryTree.java)
+* :yellow_circle: [problem 820 / Short Encoding of Words](./src/main/java/problem820/ShortEncodingOfWords.java)
 
 **_Misc:_**
 * :green_circle: [problem 268 / Missing Number](./src/main/java/problem268/MissingNumber.java)
