@@ -20,3 +20,4 @@ Levels:
 
 **_Misc:_**
 * :green_circle: [problem 268 / Missing Number](./src/main/java/problem268/MissingNumber.java)
+* :green_circle: [problem 1332 / Remove Palindromic Subsequences](./src/main/java/problem1332/RemovePalindromicSubsequences.java)
