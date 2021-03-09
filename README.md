@@ -15,6 +15,7 @@ Levels:
 * :green_circle: [problem 160 / Intersection of Two Linked Lists](./src/main/java/problem160/IntersectionOfTwoLinkedLists.java)
 
 **_Trees:_**
+* :yellow_circle: [problem 632 / Add One Row to Tree](./src/main/java/problem632/AddOneRowToTree.java)
 * :green_circle: [problem 637 / Average of Levels in Binary Tree](./src/main/java/problem637/AverageLevelsBinaryTree.java)
 * :yellow_circle: [problem 820 / Short Encoding of Words](./src/main/java/problem820/ShortEncodingOfWords.java)
 
