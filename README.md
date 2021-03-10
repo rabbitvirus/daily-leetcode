@@ -20,5 +20,6 @@ Levels:
 * :yellow_circle: [problem 820 / Short Encoding of Words](./src/main/java/problem820/ShortEncodingOfWords.java)
 
 **_Misc:_**
+* :yellow_circle: [problem 12 / Integer to Roman](./src/main/java/problem12/IntegerToRoman.java)
 * :green_circle: [problem 268 / Missing Number](./src/main/java/problem268/MissingNumber.java)
 * :green_circle: [problem 1332 / Remove Palindromic Subsequences](./src/main/java/problem1332/RemovePalindromicSubsequences.java)
