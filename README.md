@@ -19,6 +19,9 @@ Levels:
 * :green_circle: [problem 637 / Average of Levels in Binary Tree](./src/main/java/problem637/AverageLevelsBinaryTree.java)
 * :yellow_circle: [problem 820 / Short Encoding of Words](./src/main/java/problem820/ShortEncodingOfWords.java)
 
+**_Dynamic programming:_**
+* :yellow_circle: [problem 322 / Coin Change](./src/main/java/problem322/CoinChange.java)
+
 **_Misc:_**
 * :yellow_circle: [problem 12 / Integer to Roman](./src/main/java/problem12/IntegerToRoman.java)
 * :green_circle: [problem 268 / Missing Number](./src/main/java/problem268/MissingNumber.java)
