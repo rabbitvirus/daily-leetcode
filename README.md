@@ -26,3 +26,4 @@ Levels:
 * :yellow_circle: [problem 12 / Integer to Roman](./src/main/java/problem12/IntegerToRoman.java)
 * :green_circle: [problem 268 / Missing Number](./src/main/java/problem268/MissingNumber.java)
 * :green_circle: [problem 1332 / Remove Palindromic Subsequences](./src/main/java/problem1332/RemovePalindromicSubsequences.java)
+* :yellow_circle: [problem 1461 / Check If a String Contains All Binary Codes of Size K](./src/main/java/problem1461/CheckBinaryString.java)
