@@ -13,6 +13,7 @@ Levels:
 
 **_Lists:_**
 * :green_circle: [problem 160 / Intersection of Two Linked Lists](./src/main/java/problem160/IntersectionOfTwoLinkedLists.java)
+* :yellow_circle: [problem 1721 / Swapping Nodes in a Linked List](./src/main/java/problem1721/SwappingNodes.java)
 
 **_Trees:_**
 * :yellow_circle: [problem 632 / Add One Row to Tree](./src/main/java/problem632/AddOneRowToTree.java)
