@@ -21,6 +21,7 @@ Levels:
 
 **_Dynamic programming:_**
 * :yellow_circle: [problem 322 / Coin Change](./src/main/java/problem322/CoinChange.java)
+* :yellow_circle: [problem 832 / Binary Trees With Factors](./src/main/java/problem832/BinaryTreesWithFactors.java)
 
 **_Misc:_**
 * :yellow_circle: [problem 12 / Integer to Roman](./src/main/java/problem12/IntegerToRoman.java)
