@@ -11,6 +11,7 @@ Levels:
 * :green_circle: [problem 575 / Distribute Candies](./src/main/java/problem575/DistributeCandies.java)
 * :green_circle: [problem 645 / Set Mismatch](./src/main/java/problem645/SetMismatch.java)
 * :green_circle: [problem 706 / Design HashMap](./src/main/java/problem706/MyHashMap.java)
+* :yellow_circle: [problem 1396 / Design Underground System](./src/main/java/problem1396/UndergroundSystem.java)
 
 **_Lists:_**
 * :green_circle: [problem 160 / Intersection of Two Linked Lists](./src/main/java/problem160/IntersectionOfTwoLinkedLists.java)
