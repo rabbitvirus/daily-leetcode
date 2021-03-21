@@ -21,6 +21,9 @@ Levels:
 * :green_circle: [problem 637 / Average of Levels in Binary Tree](./src/main/java/problem637/AverageLevelsBinaryTree.java)
 * :yellow_circle: [problem 820 / Short Encoding of Words](./src/main/java/problem820/ShortEncodingOfWords.java)
 
+**_Graphs_**
+* :yellow_circle: [problem 841 / Keys and Rooms](./src/main/java/problem841/KeysAndRooms.java)
+
 **_Dynamic programming:_**
 * :yellow_circle: [problem 322 / Coin Change](./src/main/java/problem322/CoinChange.java)
 * :yellow_circle: [problem 714 / Best Time to Buy and Sell Stock with Transaction Fee](./src/main/java/problem714/BuySellStock.java)
