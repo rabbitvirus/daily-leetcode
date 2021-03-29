@@ -13,6 +13,7 @@ Levels:
 * :green_circle: [problem 706 / Design HashMap](./src/main/java/problem706/MyHashMap.java)
 * :yellow_circle: [problem 869 / Reordered Power of 2](./src/main/java/problem869/ReorderedPower2.java)
 * :yellow_circle: [problem 870 / Advantage Shuffle](./src/main/java/problem870/AdvantageShuffle.java)
+* :yellow_circle: [problem 916 / Ward Subsets](./src/main/java/problem916/WordSubsets.java)
 * :yellow_circle: [problem 923 / 3Sum With Multiplicity](./src/main/java/problem923/ThreeSumWithMultiplicity.java)
 * :yellow_circle: [problem 966 / Vowel Spellchecker](./src/main/java/problem966/VowelSpellchecker.java)
 * :yellow_circle: [problem 1396 / Design Underground System](./src/main/java/problem1396/UndergroundSystem.java)
