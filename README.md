@@ -41,5 +41,6 @@ Levels:
 * :green_circle: [problem 268 / Missing Number](./src/main/java/problem268/MissingNumber.java)
 * :yellow_circle: [problem 376 / Wiggle Subsequence](./src/main/java/problem376/WiggleSubsequence.java)
 * :yellow_circle: [problem 478 / Generate Random Point in a Circle](./src/main/java/problem478/RandomPoint.java)
+* :yellow_circle: [problem 647 / Palindromic Substrings](./src/main/java/problem647/PalindromicSubstrings.java)
 * :green_circle: [problem 1332 / Remove Palindromic Subsequences](./src/main/java/problem1332/RemovePalindromicSubsequences.java)
 * :yellow_circle: [problem 1461 / Check If a String Contains All Binary Codes of Size K](./src/main/java/problem1461/CheckBinaryString.java)
