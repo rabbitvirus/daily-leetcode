@@ -7,6 +7,7 @@ Levels:
 * :red_circle: Hard
 
 **_Hashing/lookups:_**
+* :yellow_circle: [problem 423 / Reconstruct Original Digits from English](./src/main/java/problem423/ReconstructDigits.java)
 * :yellow_circle: [problem 535 / Encode and Decode TinyURL](./src/main/java/problem535/Codec.java)
 * :green_circle: [problem 575 / Distribute Candies](./src/main/java/problem575/DistributeCandies.java)
 * :green_circle: [problem 645 / Set Mismatch](./src/main/java/problem645/SetMismatch.java)
