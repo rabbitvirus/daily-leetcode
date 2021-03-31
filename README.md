@@ -38,9 +38,10 @@ Levels:
 * :yellow_circle: [problem 714 / Best Time to Buy and Sell Stock with Transaction Fee](./src/main/java/problem714/BuySellStock.java)
 * :yellow_circle: [problem 832 / Binary Trees With Factors](./src/main/java/problem832/BinaryTreesWithFactors.java)
 
-**_Misc:_**
+**_Misc/Sequences:_**
 * :yellow_circle: [problem 12 / Integer to Roman](./src/main/java/problem12/IntegerToRoman.java)
 * :green_circle: [problem 268 / Missing Number](./src/main/java/problem268/MissingNumber.java)
+* :red_circle: [problem 354 / Russian Doll Envelopes](./src/main/java/problem354/RussianDollEnvelopes.java)
 * :yellow_circle: [problem 376 / Wiggle Subsequence](./src/main/java/problem376/WiggleSubsequence.java)
 * :yellow_circle: [problem 478 / Generate Random Point in a Circle](./src/main/java/problem478/RandomPoint.java)
 * :yellow_circle: [problem 647 / Palindromic Substrings](./src/main/java/problem647/PalindromicSubstrings.java)
