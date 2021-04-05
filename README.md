@@ -48,6 +48,7 @@ Levels:
 * :yellow_circle: [problem 376 / Wiggle Subsequence](./src/main/java/problem376/WiggleSubsequence.java)
 * :yellow_circle: [problem 478 / Generate Random Point in a Circle](./src/main/java/problem478/RandomPoint.java)
 * :yellow_circle: [problem 647 / Palindromic Substrings](./src/main/java/problem647/PalindromicSubstrings.java)
+* :yellow_circle: [problem 775 / Global and Local Inversions](./src/main/java/problem775/GlobalLocalInversions.java)
 * :green_circle: [problem 1332 / Remove Palindromic Subsequences](./src/main/java/problem1332/RemovePalindromicSubsequences.java)
 * :yellow_circle: [problem 1461 / Check If a String Contains All Binary Codes of Size K](./src/main/java/problem1461/CheckBinaryString.java)
 
