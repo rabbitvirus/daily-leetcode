@@ -9,8 +9,8 @@ public final class BuddyStrings {
         final int[] diffPosLookup = new int[2];
         int posIdx = 0;
 
-        final boolean[] dupLookup = new boolean['z' - 'a' + 1];
-        boolean hasDups = false;
+        boolean hasDups = a.length() > 'z' - 'a' + 1;
+        final boolean[] dupLookup = hasDups ? null : new boolean['z' - 'a' + 1];
 
 
         for (int i = 0; i < a.length(); i++) {
