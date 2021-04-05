@@ -42,6 +42,7 @@ Levels:
 
 **_Misc/Sequences:_**
 * :yellow_circle: [problem 12 / Integer to Roman](./src/main/java/problem12/IntegerToRoman.java)
+* :red_circle: [problem 32 / Longest Valid Parentheses](./src/main/java/problem32/LongestValidParentheses.java)
 * :green_circle: [problem 268 / Missing Number](./src/main/java/problem268/MissingNumber.java)
 * :red_circle: [problem 354 / Russian Doll Envelopes](./src/main/java/problem354/RussianDollEnvelopes.java)
 * :yellow_circle: [problem 376 / Wiggle Subsequence](./src/main/java/problem376/WiggleSubsequence.java)
