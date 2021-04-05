@@ -12,6 +12,7 @@ Levels:
 * :green_circle: [problem 575 / Distribute Candies](./src/main/java/problem575/DistributeCandies.java)
 * :green_circle: [problem 645 / Set Mismatch](./src/main/java/problem645/SetMismatch.java)
 * :green_circle: [problem 706 / Design HashMap](./src/main/java/problem706/MyHashMap.java)
+* :green_circle: [problem 859 / Buddy Strings](./src/main/java/problem859/BuddyStrings.java)
 * :yellow_circle: [problem 869 / Reordered Power of 2](./src/main/java/problem869/ReorderedPower2.java)
 * :yellow_circle: [problem 870 / Advantage Shuffle](./src/main/java/problem870/AdvantageShuffle.java)
 * :yellow_circle: [problem 916 / Ward Subsets](./src/main/java/problem916/WordSubsets.java)
