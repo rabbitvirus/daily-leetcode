@@ -19,6 +19,7 @@ Levels:
 * :yellow_circle: [problem 923 / 3Sum With Multiplicity](./src/main/java/problem923/ThreeSumWithMultiplicity.java)
 * :yellow_circle: [problem 966 / Vowel Spellchecker](./src/main/java/problem966/VowelSpellchecker.java)
 * :yellow_circle: [problem 1396 / Design Underground System](./src/main/java/problem1396/UndergroundSystem.java)
+* :green_circle: [problem 1704 / Determine if String Halves Are Alike](./src/main/java/problem1704/AlikeStringHalves.java)
 
 **_Lists:_**
 * :green_circle: [problem 160 / Intersection of Two Linked Lists](./src/main/java/problem160/IntersectionOfTwoLinkedLists.java)
