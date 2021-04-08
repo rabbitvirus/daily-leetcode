@@ -36,6 +36,9 @@ Levels:
 * :yellow_circle: [problem 417 / Pacific Atlantic Water Flow](./src/main/java/problem417/PacificAtlanticWaterFlow.java)
 * :yellow_circle: [problem 841 / Keys and Rooms](./src/main/java/problem841/KeysAndRooms.java)
 
+**_Recursion_**
+* :yelow_circle: [problem 17 / Letter Combinations of a Phone Number](./src/main/java/problem17/PhoneLettersCombinations.java)
+
 **_Dynamic programming:_**
 * :yellow_circle: [problem 322 / Coin Change](./src/main/java/problem322/CoinChange.java)
 * :yellow_circle: [problem 474 / Ones And Zeroes](./src/main/java/problem474/OnesAndZeroes.java)
