@@ -37,7 +37,7 @@ Levels:
 * :yellow_circle: [problem 841 / Keys and Rooms](./src/main/java/problem841/KeysAndRooms.java)
 
 **_Recursion_**
-* :yelow_circle: [problem 17 / Letter Combinations of a Phone Number](./src/main/java/problem17/PhoneLettersCombinations.java)
+* :yellow_circle: [problem 17 / Letter Combinations of a Phone Number](./src/main/java/problem17/PhoneLettersCombinations.java)
 
 **_Dynamic programming:_**
 * :yellow_circle: [problem 322 / Coin Change](./src/main/java/problem322/CoinChange.java)
