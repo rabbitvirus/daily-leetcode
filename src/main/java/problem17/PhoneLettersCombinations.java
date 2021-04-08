@@ -17,8 +17,7 @@ public final class PhoneLettersCombinations {
     };
 
     public List<String> letterCombinations(final String digits) {
-        final int len = digits.length();
-        if (len == 0)
+        if (digits.length() == 0)
             return List.of();
 
         final List<String> outList = new LinkedList<>();
