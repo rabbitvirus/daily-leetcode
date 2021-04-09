@@ -17,6 +17,7 @@ Levels:
 * :yellow_circle: [problem 870 / Advantage Shuffle](./src/main/java/problem870/AdvantageShuffle.java)
 * :yellow_circle: [problem 916 / Ward Subsets](./src/main/java/problem916/WordSubsets.java)
 * :yellow_circle: [problem 923 / 3Sum With Multiplicity](./src/main/java/problem923/ThreeSumWithMultiplicity.java)
+* :green_circle: [problem 953 / Verifying an Alien Dictionary](./src/main/java/problem953/AlienDictionaryVerifier.java)
 * :yellow_circle: [problem 966 / Vowel Spellchecker](./src/main/java/problem966/VowelSpellchecker.java)
 * :yellow_circle: [problem 1396 / Design Underground System](./src/main/java/problem1396/UndergroundSystem.java)
 * :green_circle: [problem 1704 / Determine if String Halves Are Alike](./src/main/java/problem1704/AlikeStringHalves.java)
@@ -32,11 +33,11 @@ Levels:
 * :yellow_circle: [problem 820 / Short Encoding of Words](./src/main/java/problem820/ShortEncodingOfWords.java)
 * :yellow_circle: [problem 971 / Flip Binary Tree To Match Preorder Traversal](./src/main/java/problem971/BinaryTreeFlip.java)
 
-**_Graphs_**
+**_Graphs:_**
 * :yellow_circle: [problem 417 / Pacific Atlantic Water Flow](./src/main/java/problem417/PacificAtlanticWaterFlow.java)
 * :yellow_circle: [problem 841 / Keys and Rooms](./src/main/java/problem841/KeysAndRooms.java)
 
-**_Recursion_**
+**_Recursion:_**
 * :yellow_circle: [problem 17 / Letter Combinations of a Phone Number](./src/main/java/problem17/PhoneLettersCombinations.java)
 
 **_Dynamic programming:_**
