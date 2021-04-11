@@ -32,6 +32,7 @@ Levels:
 * :green_circle: [problem 637 / Average of Levels in Binary Tree](./src/main/java/problem637/AverageLevelsBinaryTree.java)
 * :yellow_circle: [problem 820 / Short Encoding of Words](./src/main/java/problem820/ShortEncodingOfWords.java)
 * :yellow_circle: [problem 971 / Flip Binary Tree To Match Preorder Traversal](./src/main/java/problem971/BinaryTreeFlip.java)
+* :yellow_circle: [problem 1302 / Deepest Leaves Sum](./src/main/java/problem1302/DeepestLeavesSum.java)
 
 **_Graphs:_**
 * :red_circle: [problem 329 / Longest Increasing Path in a Matrix](./src/main/java/problem329/LongestIncreasingPath.java)
