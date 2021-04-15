@@ -57,6 +57,7 @@ Levels:
 * :red_circle: [problem 354 / Russian Doll Envelopes](./src/main/java/problem354/RussianDollEnvelopes.java)
 * :yellow_circle: [problem 376 / Wiggle Subsequence](./src/main/java/problem376/WiggleSubsequence.java)
 * :yellow_circle: [problem 478 / Generate Random Point in a Circle](./src/main/java/problem478/RandomPoint.java)
+* :green_circle: [problem 509 / Fibonacci Number](./src/main/java/problem509/FibonacciNumber.java)
 * :yellow_circle: [problem 647 / Palindromic Substrings](./src/main/java/problem647/PalindromicSubstrings.java)
 * :yellow_circle: [problem 667 / Beautiful Arrangement II](./src/main/java/problem667/BeautifulArrangementII.java)
 * :yellow_circle: [problem 775 / Global and Local Inversions](./src/main/java/problem775/GlobalLocalInversions.java)
