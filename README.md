@@ -61,6 +61,7 @@ Levels:
 * :yellow_circle: [problem 647 / Palindromic Substrings](./src/main/java/problem647/PalindromicSubstrings.java)
 * :yellow_circle: [problem 667 / Beautiful Arrangement II](./src/main/java/problem667/BeautifulArrangementII.java)
 * :yellow_circle: [problem 775 / Global and Local Inversions](./src/main/java/problem775/GlobalLocalInversions.java)
+* :yellow_circle: [problem 1209 / Remove All Adjacent Duplicates in String II](./src/main/java/problem1209/DuplicatesRemover.java)
 * :green_circle: [problem 1332 / Remove Palindromic Subsequences](./src/main/java/problem1332/RemovePalindromicSubsequences.java)
 * :yellow_circle: [problem 1461 / Check If a String Contains All Binary Codes of Size K](./src/main/java/problem1461/CheckBinaryString.java)
 * :yellow_circle: [problem 1551 / Minimum Operations to Make Array Equal](./src/main/java/problem1551/MakeArrayEqual.java)
