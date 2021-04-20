@@ -31,6 +31,7 @@ Levels:
 * :yellow_circle: [problem 1721 / Swapping Nodes in a Linked List](./src/main/java/problem1721/SwappingNodes.java)
 
 **_Trees:_**
+* :green_circle: [problem 589 / N-ary Tree Preorder Traversal](./src/main/java/problem589/NaryTreePreorderTraversal.java)
 * :yellow_circle: [problem 632 / Add One Row to Tree](./src/main/java/problem632/AddOneRowToTree.java)
 * :green_circle: [problem 637 / Average of Levels in Binary Tree](./src/main/java/problem637/AverageLevelsBinaryTree.java)
 * :yellow_circle: [problem 820 / Short Encoding of Words](./src/main/java/problem820/ShortEncodingOfWords.java)
