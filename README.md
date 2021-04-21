@@ -45,6 +45,7 @@ Levels:
 
 **_Recursion:_**
 * :yellow_circle: [problem 17 / Letter Combinations of a Phone Number](./src/main/java/problem17/PhoneLettersCombinations.java)
+* :yellow_circle: [problem 120 / Triangle](./src/main/java/problem120/Triangle.java)
 
 **_Dynamic programming:_**
 * :yellow_circle: [problem 322 / Coin Change](./src/main/java/problem322/CoinChange.java)
