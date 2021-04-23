@@ -65,6 +65,7 @@ Levels:
 * :green_circle: [problem 509 / Fibonacci Number](./src/main/java/problem509/FibonacciNumber.java)
 * :yellow_circle: [problem 647 / Palindromic Substrings](./src/main/java/problem647/PalindromicSubstrings.java)
 * :yellow_circle: [problem 667 / Beautiful Arrangement II](./src/main/java/problem667/BeautifulArrangementII.java)
+* :green_circle: [problem 696 / Count Binary Substrings](./src/main/java/problem696/CountBinarySubstrings.java)
 * :yellow_circle: [problem 775 / Global and Local Inversions](./src/main/java/problem775/GlobalLocalInversions.java)
 * :yellow_circle: [problem 1209 / Remove All Adjacent Duplicates in String II](./src/main/java/problem1209/DuplicatesRemover.java)
 * :green_circle: [problem 1332 / Remove Palindromic Subsequences](./src/main/java/problem1332/RemovePalindromicSubsequences.java)
