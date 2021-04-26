@@ -71,6 +71,7 @@ Levels:
 * :green_circle: [problem 1332 / Remove Palindromic Subsequences](./src/main/java/problem1332/RemovePalindromicSubsequences.java)
 * :yellow_circle: [problem 1461 / Check If a String Contains All Binary Codes of Size K](./src/main/java/problem1461/CheckBinaryString.java)
 * :yellow_circle: [problem 1551 / Minimum Operations to Make Array Equal](./src/main/java/problem1551/MakeArrayEqual.java)
+* :yellow_circle: [problem 1642 / Furthest Building You Can Reach](./src/main/java/problem1642/FurthestBuilding.java)
 
 **_Other data structures:_**
 * :yellow_circle: [problem 622 / Design Circular Queue](./src/main/java/problem622/MyCircularQueue.java)
