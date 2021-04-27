@@ -76,3 +76,6 @@ Levels:
 
 **_Other data structures:_**
 * :yellow_circle: [problem 622 / Design Circular Queue](./src/main/java/problem622/MyCircularQueue.java)
+
+**_Maths:_**
+* :green_circle: [problem 326 / Power Of Three](./src/main/java/problem326/PowerOfThree.java)
