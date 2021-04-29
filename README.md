@@ -23,6 +23,9 @@ Levels:
 * :yellow_circle: [problem 1396 / Design Underground System](./src/main/java/problem1396/UndergroundSystem.java)
 * :green_circle: [problem 1704 / Determine if String Halves Are Alike](./src/main/java/problem1704/AlikeStringHalves.java)
 
+**_Arrays:_**
+* :yellow_circle: [problem 34 / Find First and Last Position of Element in Sorted Array](./src/main/java/problem34/FirstAndLastPositions.java)
+
 **_Lists:_**
 * :yellow_circle: [problem 19 / Remove Nth Node From End of List](./src/main/java/problem19/RemoveNthNodeFromEnd.java)
 * :yellow_circle: [problem 86 / Partition List](./src/main/java/problem86/PartitionList.java)
