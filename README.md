@@ -25,6 +25,7 @@ Levels:
 
 **_Arrays:_**
 * :yellow_circle: [problem 34 / Find First and Last Position of Element in Sorted Array](./src/main/java/problem34/FirstAndLastPositions.java)
+* :green_circle: [problem 1480 / Running Sum of 1d Array](./src/main/java/problem1480/RunningSum.java)
 
 **_Lists:_**
 * :yellow_circle: [problem 19 / Remove Nth Node From End of List](./src/main/java/problem19/RemoveNthNodeFromEnd.java)
