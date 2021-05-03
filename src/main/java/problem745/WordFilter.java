@@ -32,18 +32,17 @@ public final class WordFilter {
         int p = pIter.next();
         int s = sIter.next();
         for (;;) {
-            if (p == s)
+            if (p == s) {
                 return p;
-            else if (p > s)
-                if (pIter.hasNext())
-                    p = pIter.next();
-                else
+            } else if (p > s) {
+                if (!pIter.hasNext())
                     return -1;
-            else
-                if (sIter.hasNext())
-                    s = sIter.next();
-                else
+                p = pIter.next();
+            } else {
+                if (!sIter.hasNext())
                     return -1;
+                s = sIter.next();
+            }
         }
     }
 
