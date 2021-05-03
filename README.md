@@ -38,6 +38,7 @@ Levels:
 * :green_circle: [problem 589 / N-ary Tree Preorder Traversal](./src/main/java/problem589/NaryTreePreorderTraversal.java)
 * :yellow_circle: [problem 632 / Add One Row to Tree](./src/main/java/problem632/AddOneRowToTree.java)
 * :green_circle: [problem 637 / Average of Levels in Binary Tree](./src/main/java/problem637/AverageLevelsBinaryTree.java)
+* :red_circle: [problem 745 / Prefix and Suffix Search](./src/main/java/problem745/WordFilter.java)
 * :yellow_circle: [problem 820 / Short Encoding of Words](./src/main/java/problem820/ShortEncodingOfWords.java)
 * :yellow_circle: [problem 971 / Flip Binary Tree To Match Preorder Traversal](./src/main/java/problem971/BinaryTreeFlip.java)
 * :yellow_circle: [problem 1302 / Deepest Leaves Sum](./src/main/java/problem1302/DeepestLeavesSum.java)
