@@ -88,3 +88,4 @@ Levels:
 
 **_Maths:_**
 * :green_circle: [problem 326 / Power Of Three](./src/main/java/problem326/PowerOfThree.java)
+* :red_circle: [problem 906 / Super Palindromes](./src/main/java/problem906/SuperPalindromes.java)
