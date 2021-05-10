@@ -88,5 +88,6 @@ Levels:
 * :yellow_circle: [problem 622 / Design Circular Queue](./src/main/java/problem622/MyCircularQueue.java)
 
 **_Maths:_**
+* :green_circle: [problem 204 / Count Primes](./src/main/java/problem204/CountPrimes.java)
 * :green_circle: [problem 326 / Power Of Three](./src/main/java/problem326/PowerOfThree.java)
 * :red_circle: [problem 906 / Super Palindromes](./src/main/java/problem906/SuperPalindromes.java)
