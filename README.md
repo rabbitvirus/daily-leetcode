@@ -35,6 +35,7 @@ Levels:
 * :yellow_circle: [problem 86 / Partition List](./src/main/java/problem86/PartitionList.java)
 * :green_circle: [problem 160 / Intersection of Two Linked Lists](./src/main/java/problem160/IntersectionOfTwoLinkedLists.java)
 * :green_circle: [problem 234 / Palindrome Linked List](./src/main/java/problem234/PalindromeLinkedList.java)
+* :yellow_circle: [problem 304 / Range Sum Query 2D - Immutable](./src/main/java/problem304/NumMatrix.java)
 * :yellow_circle: [problem 341 / Flatten Nested List Iterator](./src/main/java/problem341/NestedIterator.java)
 * :yellow_circle: [problem 1721 / Swapping Nodes in a Linked List](./src/main/java/problem1721/SwappingNodes.java)
 
