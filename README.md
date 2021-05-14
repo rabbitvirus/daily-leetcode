@@ -40,6 +40,7 @@ Levels:
 
 **_Trees:_**
 * :yellow_circle: [problem 109 / Convert Sorted List to Binary Search Tree](./src/main/java/problem109/BalancedTree.java)
+* :yellow_circle: [problem 114 / Flatten Binary Tree to Linked List](./src/main/java/problem114/TreeToLinkedList.java)
 * :green_circle: [problem 589 / N-ary Tree Preorder Traversal](./src/main/java/problem589/NaryTreePreorderTraversal.java)
 * :yellow_circle: [problem 632 / Add One Row to Tree](./src/main/java/problem632/AddOneRowToTree.java)
 * :green_circle: [problem 637 / Average of Levels in Binary Tree](./src/main/java/problem637/AverageLevelsBinaryTree.java)
