@@ -25,6 +25,7 @@ Levels:
 
 **_Arrays:_**
 * :yellow_circle: [problem 34 / Find First and Last Position of Element in Sorted Array](./src/main/java/problem34/FirstAndLastPositions.java)
+* :yellow_circle: [problem 45 / Jump Game II](./src/main/java/problem45/JumpGame2.java)
 * :yellow_circle: [problem 665 / Non-decreasing Array](./src/main/java/problem665/NonDecreasingArray.java)
 * :red_circle: [problem 1354 / Construct Target Array With Multiple Sums](./src/main/java/problem1354/MultiSumArray.java)
 * :yellow_circle: [problem 1423 / Maximum Points You Can Obtain from Cards](./src/main/java/problem1423/MaximumCardsPoints.java)
