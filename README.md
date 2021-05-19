@@ -83,6 +83,7 @@ Levels:
 * :yellow_circle: [problem 667 / Beautiful Arrangement II](./src/main/java/problem667/BeautifulArrangementII.java)
 * :green_circle: [problem 696 / Count Binary Substrings](./src/main/java/problem696/CountBinarySubstrings.java)
 * :yellow_circle: [problem 775 / Global and Local Inversions](./src/main/java/problem775/GlobalLocalInversions.java)
+* :yellow_circle: [problem 816 / Ambiguous Coordinates](./src/main/java/problem816/AmbiguousCoordinates.java)
 * :yellow_circle: [problem 970 / Powerful Integers](./src/main/java/problem970/PowerfulIntegers.java)
 * :yellow_circle: [problem 1048 / Longest String Chain](./src/main/java/problem1048/LongestStringChain.java)
 * :yellow_circle: [problem 1209 / Remove All Adjacent Duplicates in String II](./src/main/java/problem1209/DuplicatesRemover.java)
