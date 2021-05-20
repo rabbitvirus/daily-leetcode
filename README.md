@@ -41,6 +41,7 @@ Levels:
 * :yellow_circle: [problem 1721 / Swapping Nodes in a Linked List](./src/main/java/problem1721/SwappingNodes.java)
 
 **_Trees:_**
+* :yellow_circle: [problem 102 / Binary Tree Level Order Traversal](./src/main/java/problem102/BinaryTreeLevelOrderTraversal.java)
 * :yellow_circle: [problem 109 / Convert Sorted List to Binary Search Tree](./src/main/java/problem109/BalancedTree.java)
 * :yellow_circle: [problem 114 / Flatten Binary Tree to Linked List](./src/main/java/problem114/TreeToLinkedList.java)
 * :green_circle: [problem 589 / N-ary Tree Preorder Traversal](./src/main/java/problem589/NaryTreePreorderTraversal.java)
