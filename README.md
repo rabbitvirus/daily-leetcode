@@ -85,6 +85,7 @@ Levels:
 * :yellow_circle: [problem 647 / Palindromic Substrings](./src/main/java/problem647/PalindromicSubstrings.java)
 * :yellow_circle: [problem 667 / Beautiful Arrangement II](./src/main/java/problem667/BeautifulArrangementII.java)
 * :green_circle: [problem 696 / Count Binary Substrings](./src/main/java/problem696/CountBinarySubstrings.java)
+* :green_circle: [problem 709 / To Lower Case](./src/main/java/problem709/ToLowerCase.java)
 * :yellow_circle: [problem 775 / Global and Local Inversions](./src/main/java/problem775/GlobalLocalInversions.java)
 * :yellow_circle: [problem 816 / Ambiguous Coordinates](./src/main/java/problem816/AmbiguousCoordinates.java)
 * :yellow_circle: [problem 970 / Powerful Integers](./src/main/java/problem970/PowerfulIntegers.java)
