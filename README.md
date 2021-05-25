@@ -42,6 +42,9 @@ Levels:
 * :yellow_circle: [problem 341 / Flatten Nested List Iterator](./src/main/java/problem341/NestedIterator.java)
 * :yellow_circle: [problem 1721 / Swapping Nodes in a Linked List](./src/main/java/problem1721/SwappingNodes.java)
 
+**_Stacks:_**
+* :yellow_circle: [problem 150 / Evaluate Reverse Polish Notation](./src/main/java/problem150/ReversePolishNotation.java)
+
 **_Trees:_**
 * :yellow_circle: [problem 102 / Binary Tree Level Order Traversal](./src/main/java/problem102/BinaryTreeLevelOrderTraversal.java)
 * :yellow_circle: [problem 109 / Convert Sorted List to Binary Search Tree](./src/main/java/problem109/BalancedTree.java)
