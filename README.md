@@ -115,3 +115,6 @@ Levels:
 
 **_State machines:_**
 * :red_circle: [problem 65 / Valid Number](./src/main/java/problem65/ValidNumber.java)
+
+**_Bit manipulation:_**
+* :yellow_circle: [problem 318 / Maximum Product of Word Lengths](./src/main/java/problem318/MaximumProductOfLengths.java)
