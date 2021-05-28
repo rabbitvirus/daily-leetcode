@@ -33,6 +33,7 @@ Levels:
 * :red_circle: [problem 1354 / Construct Target Array With Multiple Sums](./src/main/java/problem1354/MultiSumArray.java)
 * :yellow_circle: [problem 1423 / Maximum Points You Can Obtain from Cards](./src/main/java/problem1423/MaximumCardsPoints.java)
 * :green_circle: [problem 1480 / Running Sum of 1d Array](./src/main/java/problem1480/RunningSum.java)
+* :yellow_circle: [problem 1695 / Maximum Erasure Value](./src/main/java/problem1695/MaximumErasure.java)
 
 **_Lists:_**
 * :yellow_circle: [problem 19 / Remove Nth Node From End of List](./src/main/java/problem19/RemoveNthNodeFromEnd.java)
