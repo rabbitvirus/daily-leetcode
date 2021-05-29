@@ -113,6 +113,7 @@ Levels:
 
 **_Backtracking:_**
 * :red_circle: [problem 51 / N-Queens](./src/main/java/problem51/NQueens.java)
+* :red_circle: [problem 52 / N-Queens II](./src/main/java/problem52/NQueens2.java)
 
 **_State machines:_**
 * :red_circle: [problem 65 / Valid Number](./src/main/java/problem65/ValidNumber.java)
