@@ -81,6 +81,9 @@ Levels:
 * :yellow_circle: [problem 714 / Best Time to Buy and Sell Stock with Transaction Fee](./src/main/java/problem714/BuySellStock.java)
 * :yellow_circle: [problem 832 / Binary Trees With Factors](./src/main/java/problem832/BinaryTreesWithFactors.java)
 
+**_Greedy:_**
+* :red_circle: [problem 1383 / Maximum Performance of a Team](./src/main/java/problem1383/MaximumPerformance.java)
+
 **_Misc/Sequences:_**
 * :yellow_circle: [problem 12 / Integer to Roman](./src/main/java/problem12/IntegerToRoman.java)
 * :red_circle: [problem 32 / Longest Valid Parentheses](./src/main/java/problem32/LongestValidParentheses.java)
