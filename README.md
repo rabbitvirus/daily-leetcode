@@ -50,6 +50,7 @@ Levels:
 
 **_Trees:_**
 * :yellow_circle: [problem 102 / Binary Tree Level Order Traversal](./src/main/java/problem102/BinaryTreeLevelOrderTraversal.java)
+* :yellow_circle: [problem 105 / Construct Binary Tree from Preorder and Inorder Traversal](./src/main/java/problem105/ConstructBinaryTree.java)
 * :yellow_circle: [problem 109 / Convert Sorted List to Binary Search Tree](./src/main/java/problem109/BalancedTree.java)
 * :yellow_circle: [problem 114 / Flatten Binary Tree to Linked List](./src/main/java/problem114/TreeToLinkedList.java)
 * :green_circle: [problem 589 / N-ary Tree Preorder Traversal](./src/main/java/problem589/NaryTreePreorderTraversal.java)
