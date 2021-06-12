@@ -87,6 +87,7 @@ Levels:
 * :yellow_circle: [problem 1690 / Stone Game VII](./src/main/java/problem1690/StoneGame7.java)
 
 **_Greedy:_**
+* :red_circle: [problem 871 / Minimum Number of Refueling Stops](./src/main/java/problem871/RefuelingStops.java)
 * :red_circle: [problem 1383 / Maximum Performance of a Team](./src/main/java/problem1383/MaximumPerformance.java)
 
 **_Misc/Sequences:_**
