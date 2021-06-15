@@ -75,6 +75,7 @@ Levels:
 **_Recursion:_**
 * :yellow_circle: [problem 17 / Letter Combinations of a Phone Number](./src/main/java/problem17/PhoneLettersCombinations.java)
 * :yellow_circle: [problem 120 / Triangle](./src/main/java/problem120/Triangle.java)
+* :yellow_circle: [problem 473 / Matchsticks to Square](./src/main/java/problem473/MatchsticksToSquare.java)
 
 **_Dynamic programming:_**
 * :yellow_circle: [problem 304 / Range Sum Query 2D - Immutable](./src/main/java/problem304/NumMatrix.java)
