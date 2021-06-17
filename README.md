@@ -128,6 +128,7 @@ Levels:
 * :red_circle: [problem 906 / Super Palindromes](./src/main/java/problem906/SuperPalindromes.java)
 
 **_Backtracking:_**
+* :yellow_circle: [problem 22 / Generate Parentheses](./src/main/java/problem22/GenerateParentheses.java)
 * :red_circle: [problem 51 / N-Queens](./src/main/java/problem51/NQueens.java)
 * :red_circle: [problem 52 / N-Queens II](./src/main/java/problem52/NQueens2.java)
 
