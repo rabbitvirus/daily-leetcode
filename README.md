@@ -117,6 +117,7 @@ Levels:
 * :yellow_circle: [problem 1551 / Minimum Operations to Make Array Equal](./src/main/java/problem1551/MakeArrayEqual.java)
 * :yellow_circle: [problem 1642 / Furthest Building You Can Reach](./src/main/java/problem1642/FurthestBuilding.java)
 * :yellow_circle: [problem 1689 / Partitioning Into Minimum Number Of Deci-Binary Numbers](./src/main/java/problem1689/DeciBinarySum.java)
+* :yellow_circle: [problem 1696 / Jump Game VI](./src/main/java/problem1696/JumpGameVI.java)
 
 **_Other data structures:_**
 * :yellow_circle: [problem 622 / Design Circular Queue](./src/main/java/problem622/MyCircularQueue.java)
