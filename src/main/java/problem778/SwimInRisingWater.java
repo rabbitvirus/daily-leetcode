@@ -4,6 +4,13 @@ import java.util.PriorityQueue;
 
 public final class SwimInRisingWater {
 
+    private static final int[][] ADJ = new int[][]{
+            {-1, 0},
+            {1, 0},
+            {0, -1},
+            {0, 1}
+    };
+
     public int swimInWater(final int[][] grid) {
         final int n = grid.length;
         final boolean[][] visited = new boolean[n][n];
@@ -18,28 +25,14 @@ public final class SwimInRisingWater {
             if (h[0] == n - 1 && h[1] == n - 1)
                 return Math.max(h[2], grid[n - 1][n - 1]);
 
-            // up
-            if (h[0] - 1 >= 0 && !visited[h[0] - 1][h[1]]) {
-                q.offer(new int[]{h[0] - 1, h[1], Math.max(h[2], grid[h[0] - 1][h[1]])});
-                visited[h[0] - 1][h[1]] = true;
-            }
+            for (final int[] a : ADJ) {
+                final int xc = h[0] + a[0];
+                final int yc = h[1] + a[1];
 
-            // down
-            if (h[0] + 1 < n && !visited[h[0] + 1][h[1]]) {
-                q.offer(new int[]{h[0] + 1, h[1], Math.max(h[2], grid[h[0] + 1][h[1]])});
-                visited[h[0] + 1][h[1]] = true;
-            }
-
-            // left
-            if (h[1] - 1 >= 0 && !visited[h[0]][h[1] - 1]) {
-                q.offer(new int[]{h[0], h[1] - 1, Math.max(h[2], grid[h[0]][h[1] - 1])});
-                visited[h[0]][h[1] - 1] = true;
-            }
-
-            // right
-            if (h[1] + 1 < n && !visited[h[0]][h[1] + 1]) {
-                q.offer(new int[]{h[0], h[1] + 1, Math.max(h[2], grid[h[0]][h[1] + 1])});
-                visited[h[0]][h[1] + 1] = true;
+                if (0 <= xc && xc < n && 0 <= yc && yc < n && !visited[xc][yc]) {
+                    q.offer(new int[]{xc, yc, Math.max(h[2], grid[xc][yc])});
+                    visited[xc][yc] = true;
+                }
             }
         }
 
