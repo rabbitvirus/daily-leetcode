@@ -42,6 +42,7 @@ Levels:
 **_Lists:_**
 * :yellow_circle: [problem 19 / Remove Nth Node From End of List](./src/main/java/problem19/RemoveNthNodeFromEnd.java)
 * :yellow_circle: [problem 86 / Partition List](./src/main/java/problem86/PartitionList.java)
+* :yellow_circle: [problem 92 / Reverse Linked List II](./src/main/java/problem92/ReverseLinkedList.java)
 * :green_circle: [problem 160 / Intersection of Two Linked Lists](./src/main/java/problem160/IntersectionOfTwoLinkedLists.java)
 * :green_circle: [problem 234 / Palindrome Linked List](./src/main/java/problem234/PalindromeLinkedList.java)
 * :yellow_circle: [problem 341 / Flatten Nested List Iterator](./src/main/java/problem341/NestedIterator.java)
