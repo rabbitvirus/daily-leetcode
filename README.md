@@ -86,6 +86,7 @@ Levels:
 * :yellow_circle: [problem 322 / Coin Change](./src/main/java/problem322/CoinChange.java)
 * :yellow_circle: [problem 377 / Combination Sum IV](./src/main/java/problem377/CombinationSumIV.java)
 * :yellow_circle: [problem 474 / Ones And Zeroes](./src/main/java/problem474/OnesAndZeroes.java)
+* :yellow_circle: [problem 576 / Out of Boundary Paths](./src/main/java/problem576/OutOfBoundaryPaths.java)
 * :yellow_circle: [problem 583 / Delete Operation for Two Strings](./src/main/java/problem583/DeleteOperation.java)
 * :red_circle: [problem 629 / K Inverse Pairs Array](./src/main/java/problem629/KInversePairs.java)
 * :yellow_circle: [problem 714 / Best Time to Buy and Sell Stock with Transaction Fee](./src/main/java/problem714/BuySellStock.java)
