@@ -57,6 +57,7 @@ Levels:
 * :yellow_circle: [problem 109 / Convert Sorted List to Binary Search Tree](./src/main/java/problem109/BalancedTree.java)
 * :yellow_circle: [problem 114 / Flatten Binary Tree to Linked List](./src/main/java/problem114/TreeToLinkedList.java)
 * :yellow_circle: [problem 307 / Range Sum Query - Mutable](./src/main/java/problem307/NumArray.java)
+* :red_circle: [problem 315 / Count of Smaller Numbers After Self](./src/main/java/problem315/SmallerNumbers.java)
 * :red_circle: [problem 336 / Palindrome Pairs](./src/main/java/problem336/PalindromePairs.java)
 * :green_circle: [problem 589 / N-ary Tree Preorder Traversal](./src/main/java/problem589/NaryTreePreorderTraversal.java)
 * :yellow_circle: [problem 632 / Add One Row to Tree](./src/main/java/problem632/AddOneRowToTree.java)
