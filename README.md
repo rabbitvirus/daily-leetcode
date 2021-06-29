@@ -121,6 +121,7 @@ Levels:
 * :yellow_circle: [problem 792 / Number of Matching Subsequences](./src/main/java/problem792/NumberOfMatchingSubsequences.java)
 * :yellow_circle: [problem 816 / Ambiguous Coordinates](./src/main/java/problem816/AmbiguousCoordinates.java)
 * :yellow_circle: [problem 970 / Powerful Integers](./src/main/java/problem970/PowerfulIntegers.java)
+* :yellow_circle: [problem 1004 / Max Consecutive Ones III](./src/main/java/problem1004/MaximumConsecutiveOnes.java)
 * :green_circle: [problem 1047 / Remove All Adjacent Duplicates In String](./src/main/java/problem1047/RemoveAdjacentDuplicates.java)
 * :yellow_circle: [problem 1048 / Longest String Chain](./src/main/java/problem1048/LongestStringChain.java)
 * :yellow_circle: [problem 1209 / Remove All Adjacent Duplicates in String II](./src/main/java/problem1209/DuplicatesRemover.java)
