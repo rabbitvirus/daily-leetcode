@@ -56,6 +56,7 @@ Levels:
 * :yellow_circle: [problem 105 / Construct Binary Tree from Preorder and Inorder Traversal](./src/main/java/problem105/ConstructBinaryTree.java)
 * :yellow_circle: [problem 109 / Convert Sorted List to Binary Search Tree](./src/main/java/problem109/BalancedTree.java)
 * :yellow_circle: [problem 114 / Flatten Binary Tree to Linked List](./src/main/java/problem114/TreeToLinkedList.java)
+* :yellow_circle: [problem 236 / Lowest Common Ancestor of a Binary Tree](./src/main/java/problem236/LowestCommonAncestor.java)
 * :yellow_circle: [problem 307 / Range Sum Query - Mutable](./src/main/java/problem307/NumArray.java)
 * :red_circle: [problem 315 / Count of Smaller Numbers After Self](./src/main/java/problem315/SmallerNumbers.java)
 * :red_circle: [problem 336 / Palindrome Pairs](./src/main/java/problem336/PalindromePairs.java)
