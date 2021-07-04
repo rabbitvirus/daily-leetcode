@@ -97,6 +97,7 @@ Levels:
 * :yellow_circle: [problem 714 / Best Time to Buy and Sell Stock with Transaction Fee](./src/main/java/problem714/BuySellStock.java)
 * :green_circle: [problem 746 / Min Cost Climbing Stairs](./src/main/java/problem746/MinCostClimbingStairs.java)
 * :yellow_circle: [problem 832 / Binary Trees With Factors](./src/main/java/problem832/BinaryTreesWithFactors.java)
+* :red_circle: [problem 1220 / Count Vowels Permutation](./src/main/java/problem1220/CountVowelsPermutation.java)
 * :yellow_circle: [problem 1690 / Stone Game VII](./src/main/java/problem1690/StoneGame7.java)
 
 **_Greedy:_**
