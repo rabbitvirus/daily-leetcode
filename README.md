@@ -104,6 +104,7 @@ Levels:
 **_Greedy:_**
 * :red_circle: [problem 135 / Candy](./src/main/java/problem135/Candy.java)
 * :red_circle: [problem 871 / Minimum Number of Refueling Stops](./src/main/java/problem871/RefuelingStops.java)
+* :yellow_circle: [problem 1338 / Reduce Array Size to The Half](./src/main/java/problem1338/ReduceArraySize.java)
 * :red_circle: [problem 1383 / Maximum Performance of a Team](./src/main/java/problem1383/MaximumPerformance.java)
 * :green_circle: [problem 1710 / Maximum Units on a Truck](./src/main/java/problem1710/MaximumUnits.java)
 
