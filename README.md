@@ -75,6 +75,7 @@ Levels:
 **_Graphs:_**
 * :yellow_circle: [problem 63 / Unique Paths II](./src/main/java/problem63/UniquePathsII.java)
 * :red_circle: [problem 329 / Longest Increasing Path in a Matrix](./src/main/java/problem329/LongestIncreasingPath.java)
+* :yellow_circle: [problem 378 / Kth Smallest Element in a Sorted Matrix](./src/main/java/problem378/KthSmallestInMatrix.java)
 * :yellow_circle: [problem 417 / Pacific Atlantic Water Flow](./src/main/java/problem417/PacificAtlanticWaterFlow.java)
 * :yellow_circle: [problem 684 / Redundant Connection](./src/main/java/problem684/RedundantConnection.java)
 * :yellow_circle: [problem 695 / Max Area Of Island](./src/main/java/problem695/MaxAreaOfIsland.java)
