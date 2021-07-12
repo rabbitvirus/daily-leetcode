@@ -117,6 +117,7 @@ Levels:
 * :yellow_circle: [problem 48 / Rotate Image](./src/main/java/problem48/RotateImage.java)
 * :yellow_circle: [problem 97 / Interleaving String](./src/main/java/problem97/InterleavingString.java)
 * :green_circle: [problem 118 / Pascal's Triangle](./src/main/java/problem118/PascalsTriangle.java)
+* :green_circle: [problem 205 / Isomorphic Strings](./src/main/java/problem205/IsomorphicStrings.java)
 * :green_circle: [problem 268 / Missing Number](./src/main/java/problem268/MissingNumber.java)
 * :red_circle: [problem 295 / Find Median from Data Stream](./src/main/java/problem295/MedianFinder.java)
 * :yellow_circle: [problem 300 / Longest Increasing Subsequence](./src/main/java/problem300/LongestIncreasingSubsequence.java)
