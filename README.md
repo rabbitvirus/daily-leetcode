@@ -30,6 +30,7 @@ Levels:
 **_Arrays:_**
 * :yellow_circle: [problem 34 / Find First and Last Position of Element in Sorted Array](./src/main/java/problem34/FirstAndLastPositions.java)
 * :yellow_circle: [problem 45 / Jump Game II](./src/main/java/problem45/JumpGame2.java)
+* :yellow_circle: [problem 162 / Find Peak Element](./src/main/java/problem162/FindPeakElement.java)
 * :red_circle: [problem 363 / Max Sum of Rectangle No Larger Than K](./src/main/java/problem363/MaxSumOfRectangleNoLargerThanK.java)
 * :green_circle: [problem 566 / Reshape the Matrix](./src/main/java/problem566/MatrixReshape.java)
 * :red_circle: [problem 630 / Course Schedule III](./src/main/java/problem630/CourseSchedule3.java)
