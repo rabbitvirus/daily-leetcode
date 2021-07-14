@@ -16,6 +16,7 @@ Levels:
 * :green_circle: [problem 645 / Set Mismatch](./src/main/java/problem645/SetMismatch.java)
 * :green_circle: [problem 706 / Design HashMap](./src/main/java/problem706/MyHashMap.java)
 * :yellow_circle: [problem 729 / My Calendar I](./src/main/java/problem729/MyCalendar.java)
+* :yellow_circle: [problem 791 / Custom Sort String](./src/main/java/problem791/CustomSortString.java)
 * :green_circle: [problem 859 / Buddy Strings](./src/main/java/problem859/BuddyStrings.java)
 * :yellow_circle: [problem 869 / Reordered Power of 2](./src/main/java/problem869/ReorderedPower2.java)
 * :yellow_circle: [problem 870 / Advantage Shuffle](./src/main/java/problem870/AdvantageShuffle.java)
