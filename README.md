@@ -29,6 +29,7 @@ Levels:
 * :green_circle: [problem 1704 / Determine if String Halves Are Alike](./src/main/java/problem1704/AlikeStringHalves.java)
 
 **_Arrays:_**
+* :yellow_circle: [problem 18 / 4Sum](./src/main/java/problem18/FourSum.java)
 * :yellow_circle: [problem 34 / Find First and Last Position of Element in Sorted Array](./src/main/java/problem34/FirstAndLastPositions.java)
 * :yellow_circle: [problem 45 / Jump Game II](./src/main/java/problem45/JumpGame2.java)
 * :yellow_circle: [problem 162 / Find Peak Element](./src/main/java/problem162/FindPeakElement.java)
