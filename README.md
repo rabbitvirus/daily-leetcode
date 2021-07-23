@@ -76,6 +76,7 @@ Levels:
 * :yellow_circle: [problem 632 / Add One Row to Tree](./src/main/java/problem632/AddOneRowToTree.java)
 * :green_circle: [problem 637 / Average of Levels in Binary Tree](./src/main/java/problem637/AverageLevelsBinaryTree.java)
 * :red_circle: [problem 745 / Prefix and Suffix Search](./src/main/java/problem745/WordFilter.java)
+* :yellow_circle: [problem 814 / Binary Tree Pruning](./src/main/java/problem814/BinaryTreePruning.java)
 * :yellow_circle: [problem 820 / Short Encoding of Words](./src/main/java/problem820/ShortEncodingOfWords.java)
 * :red_circle: [problem 968 / Binary Tree Cameras](./src/main/java/problem968/BinaryTreeCameras.java)
 * :yellow_circle: [problem 971 / Flip Binary Tree To Match Preorder Traversal](./src/main/java/problem971/BinaryTreeFlip.java)
