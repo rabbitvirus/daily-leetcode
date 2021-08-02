@@ -7,6 +7,7 @@ Levels:
 * :red_circle: Hard
 
 **_Hashing/lookups:_**
+* :green_circle: [problem 1 / Two Sum](./src/main/java/problem1/TwoSum.java)
 * :yellow_circle: [problem 128 / Longest Consecutive Sequence](./src/main/java/problem128/LongestConsecutiveSequence.java)
 * :yellow_circle: [problem 423 / Reconstruct Original Digits from English](./src/main/java/problem423/ReconstructDigits.java)
 * :yellow_circle: [problem 535 / Encode and Decode TinyURL](./src/main/java/problem535/Codec.java)
