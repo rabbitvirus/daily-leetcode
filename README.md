@@ -75,6 +75,7 @@ Levels:
 * :yellow_circle: [problem 307 / Range Sum Query - Mutable](./src/main/java/problem307/NumArray.java)
 * :red_circle: [problem 315 / Count of Smaller Numbers After Self](./src/main/java/problem315/SmallerNumbers.java)
 * :red_circle: [problem 336 / Palindrome Pairs](./src/main/java/problem336/PalindromePairs.java)
+* :yellow_circle: [problem 429 / N-ary Tree Level Order Traversal](./src/main/java/problem429/NaryTreeLevelOrderTraversal.java)
 * :green_circle: [problem 589 / N-ary Tree Preorder Traversal](./src/main/java/problem589/NaryTreePreorderTraversal.java)
 * :yellow_circle: [problem 632 / Add One Row to Tree](./src/main/java/problem632/AddOneRowToTree.java)
 * :green_circle: [problem 637 / Average of Levels in Binary Tree](./src/main/java/problem637/AverageLevelsBinaryTree.java)
