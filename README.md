@@ -104,6 +104,7 @@ Levels:
 * :yellow_circle: [problem 473 / Matchsticks to Square](./src/main/java/problem473/MatchsticksToSquare.java)
 
 **_Dynamic programming:_**
+* :red_circle: [problem 132 / Palindrome Partitioning II](./src/main/java/problem132/PalindromePartitioningII.java)
 * :yellow_circle: [problem 304 / Range Sum Query 2D - Immutable](./src/main/java/problem304/NumMatrix.java)
 * :yellow_circle: [problem 322 / Coin Change](./src/main/java/problem322/CoinChange.java)
 * :yellow_circle: [problem 377 / Combination Sum IV](./src/main/java/problem377/CombinationSumIV.java)
