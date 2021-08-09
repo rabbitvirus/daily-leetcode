@@ -97,6 +97,7 @@ Levels:
 * :red_circle: [problem 778 / Swim in Rising Water](./src/main/java/problem778/SwimInRisingWater.java)
 * :red_circle: [problem 827 / Making A Large Island](./src/main/java/problem827/MakingALargeIsland.java)
 * :yellow_circle: [problem 841 / Keys and Rooms](./src/main/java/problem841/KeysAndRooms.java)
+* :red_circle: [problem 1632 / Rank Transform of a Matrix](./src/main/java/problem1632/RankTransformMatrix.java)
 
 **_Recursion:_**
 * :yellow_circle: [problem 17 / Letter Combinations of a Phone Number](./src/main/java/problem17/PhoneLettersCombinations.java)
