@@ -150,6 +150,7 @@ Levels:
 * :yellow_circle: [problem 775 / Global and Local Inversions](./src/main/java/problem775/GlobalLocalInversions.java)
 * :yellow_circle: [problem 792 / Number of Matching Subsequences](./src/main/java/problem792/NumberOfMatchingSubsequences.java)
 * :yellow_circle: [problem 816 / Ambiguous Coordinates](./src/main/java/problem816/AmbiguousCoordinates.java)
+* :yellow_circle: [problem 926 / Flip String to Monotone Increasing](./src/main/java/problem926/FlipStringToMonotoneIncreasing.java)
 * :yellow_circle: [problem 970 / Powerful Integers](./src/main/java/problem970/PowerfulIntegers.java)
 * :yellow_circle: [problem 1004 / Max Consecutive Ones III](./src/main/java/problem1004/MaximumConsecutiveOnes.java)
 * :green_circle: [problem 1047 / Remove All Adjacent Duplicates In String](./src/main/java/problem1047/RemoveAdjacentDuplicates.java)
