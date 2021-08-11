@@ -45,6 +45,7 @@ Levels:
 * :yellow_circle: [problem 838 / Push Dominoes](./src/main/java/problem838/PushDominoes.java)
 * :yellow_circle: [problem 915 / Partition Array into Disjoint Intervals](./src/main/java/problem915/PartitionArray.java)
 * :red_circle: [problem 927 / Three Equal Parts](./src/main/java/problem927/ThreeEqualParts.java)
+* :yellow_circle: [problem 954 / Array of Doubled Pairs](./src/main/java/problem954/ArrayOfDoubledPairs.java)
 * :red_circle: [problem 1354 / Construct Target Array With Multiple Sums](./src/main/java/problem1354/MultiSumArray.java)
 * :yellow_circle: [problem 1423 / Maximum Points You Can Obtain from Cards](./src/main/java/problem1423/MaximumCardsPoints.java)
 * :yellow_circle: [problem 1465 / Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](./src/main/java/problem1465/MaximumPieceOfCakeArea.java)
