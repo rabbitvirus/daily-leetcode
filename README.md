@@ -89,6 +89,7 @@ Levels:
 * :red_circle: [problem 968 / Binary Tree Cameras](./src/main/java/problem968/BinaryTreeCameras.java)
 * :yellow_circle: [problem 971 / Flip Binary Tree To Match Preorder Traversal](./src/main/java/problem971/BinaryTreeFlip.java)
 * :yellow_circle: [problem 1302 / Deepest Leaves Sum](./src/main/java/problem1302/DeepestLeavesSum.java)
+* :yellow_circle: [problem 1448 / Count Good Nodes in Binary Tree](./src/main/java/problem1448/CountGoodNodesInBinaryTree.java)
 
 **_Graphs:_**
 * :yellow_circle: [problem 63 / Unique Paths II](./src/main/java/problem63/UniquePathsII.java)
