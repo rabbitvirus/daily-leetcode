@@ -8,6 +8,7 @@ Levels:
 
 **_Hashing/lookups:_**
 * :green_circle: [problem 1 / Two Sum](./src/main/java/problem1/TwoSum.java)
+* :yellow_circle: [problem 36 / Valid Sudoku](./src/main/java/problem36/ValidSudoku.java)
 * :yellow_circle: [problem 49 / Group Anagrams](./src/main/java/problem49/GroupAnagrams.java)
 * :yellow_circle: [problem 128 / Longest Consecutive Sequence](./src/main/java/problem128/LongestConsecutiveSequence.java)
 * :yellow_circle: [problem 423 / Reconstruct Original Digits from English](./src/main/java/problem423/ReconstructDigits.java)
