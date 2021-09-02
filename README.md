@@ -110,6 +110,7 @@ Levels:
 
 **_Recursion:_**
 * :yellow_circle: [problem 17 / Letter Combinations of a Phone Number](./src/main/java/problem17/PhoneLettersCombinations.java)
+* :yellow_circle: [problem 95 / Unique Binary Search Trees II](./src/main/java/problem95/UniqueBinarySearchTreesII.java)
 * :yellow_circle: [problem 120 / Triangle](./src/main/java/problem120/Triangle.java)
 * :yellow_circle: [problem 473 / Matchsticks to Square](./src/main/java/problem473/MatchsticksToSquare.java)
 
